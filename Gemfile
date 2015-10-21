@@ -46,3 +46,7 @@ group :development, :test do
   gem "rspec-rails", "~> 3.2.1"
 end
 
+ # Added by bsepsakos on 21/10/2015
+group :test do
+gem "capybara", "~> 2.4"
+end
