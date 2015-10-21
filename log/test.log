@@ -1,0 +1,6 @@
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2015-10-21 16:49:52 +0000
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2015-10-21 16:50:06 +0000
+  [1m[35m (0.1ms)[0m  rollback transaction
