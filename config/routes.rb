@@ -53,4 +53,7 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+  
+  #LoC added by B.Sepsakos on 21/10/2015
+  root "projects#index"
 end
