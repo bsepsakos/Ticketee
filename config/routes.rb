@@ -56,4 +56,5 @@ Rails.application.routes.draw do
   
   #LoC added by B.Sepsakos on 21/10/2015
   root "projects#index"
+  resources :projects
 end
